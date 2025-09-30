@@ -372,3 +372,5 @@ For issues, questions, or suggestions:
 ---
 
 *Ghost Protocol v2.0 - Your digital invisibility cloak for the modern age*
+
+# also please request a pull request to help me on this, like the vpn part, also in other things you think we can add.
